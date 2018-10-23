@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e719ff64-5fcf-4fb1-958a-ae3fc918e7cc" name="Default Changelist" comment="" />
+    <list default="true" id="e719ff64-5fcf-4fb1-958a-ae3fc918e7cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,9 +47,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Dockerfile" value="88" />
+          <entry key="Dockerfile" value="89" />
           <entry key="css" value="20" />
-          <entry key="html" value="131" />
+          <entry key="html" value="140" />
           <entry key="md" value="54" />
           <entry key="sh" value="108" />
           <entry key="yml" value="9" />
@@ -57,8 +59,8 @@
         <counts>
           <entry key="Bash" value="108" />
           <entry key="CSS" value="20" />
-          <entry key="Dockerfile" value="88" />
-          <entry key="HTML" value="131" />
+          <entry key="Dockerfile" value="89" />
+          <entry key="HTML" value="140" />
           <entry key="PLAIN_TEXT" value="54" />
           <entry key="YAML" value="9" />
         </counts>
@@ -67,11 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25545">
-              <caret line="1703" column="10" selection-start-line="1703" selection-start-column="10" selection-end-line="1703" selection-end-column="10" />
+            <state relative-caret-position="148">
+              <caret line="1650" column="11" selection-start-line="1650" selection-start-column="11" selection-end-line="1650" selection-end-column="11" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
@@ -241,7 +243,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/kk.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706290">
+            <state relative-caret-position="251">
               <caret line="47076" selection-start-line="47076" selection-end-line="47076" />
               <folding>
                 <element signature="e#277844#278102#2" expanded="true" />
@@ -277,8 +279,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="19" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -286,13 +288,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-end-line="4" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -310,9 +312,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;STY</find>
-      <find>water-768x670.png</find>
-      <find>fontaw</find>
       <find>fonta</find>
       <find>fa-</find>
       <find>.com</find>
@@ -340,6 +339,9 @@
       <find>/blog02-494x348.jpg</find>
       <find>heading-bg.png</find>
       <find>CSS</find>
+      <find>reserve</find>
+      <find>href=&quot;</find>
+      <find>&gt;&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
@@ -363,13 +365,14 @@
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/src/js/autoptimize_ee187a3a53311c08bc910ea9bdcdfb56.js" />
         <option value="$PROJECT_DIR$/src/css/kk.css" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/build.sh" />
         <option value="$PROJECT_DIR$/run.sh" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/.htpasswd" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -448,17 +451,18 @@
       <updated>1540299273026</updated>
       <workItem from="1540299274242" duration="8394000" />
       <workItem from="1540318489646" duration="2674000" />
-      <workItem from="1540323035886" duration="838000" />
+      <workItem from="1540323035886" duration="1176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11906000" />
+    <option name="totallyTimeSpent" value="12244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="49" width="1536" height="791" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3031105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3031105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,7 +474,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33781764" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33781764" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,10 +489,90 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/run.sh" />
+    <entry file="file://$PROJECT_DIR$/js/kk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wp-emoji-release.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/true.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htpasswd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/kk.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="47076" selection-start-line="47076" selection-end-line="47076" />
+          <folding>
+            <element signature="e#277844#278102#2" expanded="true" />
+            <element signature="e#278266#278524#2" expanded="true" />
+            <element signature="e#278655#278913#2" expanded="true" />
+            <element signature="e#279004#279262#2" expanded="true" />
+            <element signature="e#279426#279684#2" expanded="true" />
+            <element signature="e#279815#280073#2" expanded="true" />
+            <element signature="e#291358#292805#2" expanded="true" />
+            <element signature="e#292994#294438#2" expanded="true" />
+            <element signature="e#300941#303834#1" expanded="true" />
+            <element signature="e#503729#505034#1" expanded="true" />
+            <element signature="e#505391#506872#2" expanded="true" />
+            <element signature="e#506988#508773#1" expanded="true" />
+            <element signature="e#508929#510858#2" expanded="true" />
+            <element signature="e#590262#593155#1" expanded="true" />
+            <element signature="e#1175287#1302719#1" expanded="true" />
+            <element signature="e#1302735#1323315#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25545">
-          <caret line="1703" column="10" selection-start-line="1703" selection-start-column="10" selection-end-line="1703" selection-end-column="10" />
+        <state relative-caret-position="148">
+          <caret line="1650" column="11" selection-start-line="1650" selection-start-column="11" selection-end-line="1650" selection-end-column="11" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
@@ -630,86 +714,6 @@
             <element signature="n#style#0;n#label#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/kk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3345">
-          <caret line="223" selection-start-line="223" selection-end-line="223" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/kk.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706290">
-          <caret line="47076" selection-start-line="47076" selection-end-line="47076" />
-          <folding>
-            <element signature="e#277844#278102#2" expanded="true" />
-            <element signature="e#278266#278524#2" expanded="true" />
-            <element signature="e#278655#278913#2" expanded="true" />
-            <element signature="e#279004#279262#2" expanded="true" />
-            <element signature="e#279426#279684#2" expanded="true" />
-            <element signature="e#279815#280073#2" expanded="true" />
-            <element signature="e#291358#292805#2" expanded="true" />
-            <element signature="e#292994#294438#2" expanded="true" />
-            <element signature="e#300941#303834#1" expanded="true" />
-            <element signature="e#503729#505034#1" expanded="true" />
-            <element signature="e#505391#506872#2" expanded="true" />
-            <element signature="e#506988#508773#1" expanded="true" />
-            <element signature="e#508929#510858#2" expanded="true" />
-            <element signature="e#590262#593155#1" expanded="true" />
-            <element signature="e#1175287#1302719#1" expanded="true" />
-            <element signature="e#1302735#1323315#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/wp-emoji-release.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/true.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htpasswd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
