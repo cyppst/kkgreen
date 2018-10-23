@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e719ff64-5fcf-4fb1-958a-ae3fc918e7cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/.htpasswd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/dashicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dashicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/kk.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/kk.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/unycon/Unycon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/font/unycon/Unycon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/unycon/Unycon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/font/unycon/Unycon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/unycon/Unycon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/unycon/Unycon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/unycon/Unycon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/unycon/Unycon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.eot" beforeDir="false" afterPath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/01/m1-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/01/m1-180x180.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/01/m2-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/01/m2-180x180.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/01/w7-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/01/w7-180x180.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/01/w8-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/01/w8-180x180.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/3-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/3-600x600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/5-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/5-600x600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/7-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/7-600x600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/8-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/8-600x600.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/blog01-719x506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/blog01-719x506.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/blog02-494x348 .jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/blog02-494x348 .jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/blog02-719x506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/blog02-719x506.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/blog03-719x506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/blog03-719x506.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/09/testimonials_15percent_opacity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/09/testimonials_15percent_opacity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/air-filte.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/air-filte.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/blog02-494x348.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/blog02-494x348.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/cropped-favicon-7-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/cropped-favicon-7-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/cropped-favicon-7-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/cropped-favicon-7-300x300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/diploma.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/diploma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/flasks.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/flasks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/go-top.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/go-top.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/heading-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/heading-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/label-free.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/label-free.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/man.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/man.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/microscope.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/microscope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/mineral-elements-2-600x497.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/mineral-elements-2-600x497.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/mineral-elements-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/mineral-elements-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/mineral-glass-square-600x443.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/mineral-glass-square-600x443.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/mineral-glass-square.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/mineral-glass-square.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/testimonials_15percent_opacity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/testimonials_15percent_opacity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/video.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/video_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/video_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/water-600x523.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/water-600x523.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/water-768x670.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/water-768x670.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/12/water.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/12/water.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/image/video-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/video-play.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/kk.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/kk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/wp-emoji-release.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/wp-emoji-release.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/true.html" beforeDir="false" afterPath="$PROJECT_DIR$/true.html" afterDir="false" />
-    </list>
+    <list default="true" id="e719ff64-5fcf-4fb1-958a-ae3fc918e7cc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -357,10 +302,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/.htpasswd">
+        <entry file="file://$PROJECT_DIR$/.htpasswd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state>
+              <caret column="42" selection-start-column="42" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -463,11 +408,6 @@
               <item name="kkgreen" type="b2602c69:ProjectViewProjectNode" />
               <item name="kkgreen" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="kkgreen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kkgreen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -517,16 +457,15 @@
       <updated>1540299273026</updated>
       <workItem from="1540299274242" duration="8394000" />
       <workItem from="1540318489646" duration="2674000" />
-      <workItem from="1540323035886" duration="221000" />
+      <workItem from="1540323035886" duration="472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11289000" />
+    <option name="totallyTimeSpent" value="11540000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1691" y="375" width="1536" height="791" extended-state="0" />
-    <editor active="true" />
+    <frame x="1600" y="49" width="1536" height="791" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3031105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -776,10 +715,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/.htpasswd">
+    <entry file="file://$PROJECT_DIR$/.htpasswd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
         </state>
       </provider>
     </entry>
