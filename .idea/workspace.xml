@@ -1,13 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/run.sh" line="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e719ff64-5fcf-4fb1-958a-ae3fc918e7cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/http_server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/laravel.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dashicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/dashicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kk.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/kk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/unycon/Unycon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/unycon/Unycon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/unycon/Unycon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/unycon/Unycon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/unycon/Unycon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/unycon/Unycon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/unycon/Unycon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/unycon/Unycon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/vc_grid/vc_grid_v1.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/vc_grid/vc_grid_v1.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/01/m1-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/01/m1-180x180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/01/m2-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/01/m2-180x180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/01/w7-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/01/w7-180x180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/01/w8-180x180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/01/w8-180x180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/3-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/3-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/5-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/5-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/7-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/7-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/8-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/8-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/blog01-719x506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/blog01-719x506.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/blog02-494x348 .jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/blog02-494x348 .jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/blog02-719x506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/blog02-719x506.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/blog03-719x506.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/blog03-719x506.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/09/testimonials_15percent_opacity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/09/testimonials_15percent_opacity.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/air-filte.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/air-filte.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/blog02-494x348.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/blog02-494x348.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/cropped-favicon-7-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/cropped-favicon-7-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/cropped-favicon-7-300x300.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/cropped-favicon-7-300x300.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/diploma.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/diploma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/flasks.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/flasks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/go-top.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/go-top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/heading-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/heading-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/label-free.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/label-free.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/man.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/man.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/microscope.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/microscope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/mineral-elements-2-600x497.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/mineral-elements-2-600x497.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/mineral-elements-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/mineral-elements-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/mineral-glass-square-600x443.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/mineral-glass-square-600x443.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/mineral-glass-square.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/mineral-glass-square.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/testimonials_15percent_opacity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/testimonials_15percent_opacity.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/video.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/video_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/video_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/water-600x523.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/water-600x523.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/water-768x670.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/water-768x670.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/12/water.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/12/water.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/video-play.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/image/video-play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kk.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/kk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wp-emoji-release.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/wp-emoji-release.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/1-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/1-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/WT.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/WT.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n1-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n1-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n10-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n10-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n11-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n11-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n12-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n12-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n13-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n13-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n14-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n14-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n15-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n15-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n16-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n16-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n17-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n17-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n18-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n18-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n19-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n19-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n2-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n2-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n20-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n20-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n21-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n21-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n22-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n22-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n4-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n4-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n5-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n5-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n6-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n6-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n7-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n7-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n8-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n8-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โรงน้ำ/n9-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โรงน้ำ/n9-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/โลโก้ สีใหม่ 2017.ai" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/โลโก้ สีใหม่ 2017.ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/true.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/true.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,25 +102,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5129">
+            <state relative-caret-position="30">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3345">
               <caret line="223" selection-start-line="223" selection-end-line="223" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/kk.css">
+        <entry file="file://$PROJECT_DIR$/src/css/kk.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1082679">
+            <state relative-caret-position="706095">
               <caret line="47063" column="1" selection-start-line="47063" selection-end-line="47063" selection-end-column="1" />
               <folding>
                 <element signature="e#277844#278102#2" expanded="true" />
@@ -72,7 +166,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="138">
+              <first_editor relative-caret-position="90">
                 <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               </first_editor>
               <second_editor />
@@ -81,28 +175,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/true.html">
+        <entry file="file://$PROJECT_DIR$/src/true.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="120">
               <caret line="8" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker/laravel.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="25" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker/service.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="23" column="31" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -165,16 +241,16 @@
         <option value="$PROJECT_DIR$/src/js/autoptimize_ee187a3a53311c08bc910ea9bdcdfb56.js" />
         <option value="$PROJECT_DIR$/src/css/kk.css" />
         <option value="$PROJECT_DIR$/build.sh" />
-        <option value="$PROJECT_DIR$/run.sh" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/.htpasswd" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/mysql.yml" />
         <option value="$PROJECT_DIR$/docker/service.yml" />
         <option value="$PROJECT_DIR$/docker/laravel.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/run.sh" />
       </list>
     </option>
   </component>
@@ -215,15 +291,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/docker" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/css" />
       <recent name="$PROJECT_DIR$/src/js" />
-      <recent name="$PROJECT_DIR$/src/image" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,16 +410,17 @@
       <workItem from="1541084129447" duration="1500000" />
       <workItem from="1541282969269" duration="17258000" />
       <workItem from="1541332228424" duration="3150000" />
+      <workItem from="1550852435833" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34531000" />
+    <option name="totallyTimeSpent" value="35199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1365" y="-1" width="1602" height="902" extended-state="6" />
+    <frame x="-2" y="61" width="1924" height="993" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2895238" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28940433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -353,9 +430,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" weight="0.23677249" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.23677249" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33201057" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33217993" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -387,9 +464,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/run.sh" />
     <entry file="file://$PROJECT_DIR$/.htpasswd" />
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34661">
           <caret line="1507" column="73" selection-start-line="1507" selection-start-column="73" selection-end-line="1507" selection-end-column="73" />
@@ -537,14 +613,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sh">
+    <entry file="file://$PROJECT_DIR$/src/build.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/kk.js">
+    <entry file="file://$PROJECT_DIR$/src/js/kk.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
           <caret line="25" column="35" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="35" />
@@ -554,37 +630,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/wp-emoji-release.min.js">
+    <entry file="file://$PROJECT_DIR$/src/js/wp-emoji-release.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/service.yml" />
+    <entry file="file://$PROJECT_DIR$/docker/laravel.yml" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/src/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5129">
+        <state relative-caret-position="3345">
           <caret line="223" selection-start-line="223" selection-end-line="223" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/kk.css">
+    <entry file="file://$PROJECT_DIR$/src/css/kk.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1082679">
+        <state relative-caret-position="706095">
           <caret line="47063" column="1" selection-start-line="47063" selection-end-line="47063" selection-end-column="1" />
           <folding>
             <element signature="e#277844#278102#2" expanded="true" />
@@ -615,31 +686,31 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
+          <first_editor relative-caret-position="90">
             <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/true.html">
+    <entry file="file://$PROJECT_DIR$/src/true.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="120">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/service.yml">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="23" column="31" selection-end-line="43" />
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/laravel.yml">
+    <entry file="file://$PROJECT_DIR$/run.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="25" selection-end-line="29" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
